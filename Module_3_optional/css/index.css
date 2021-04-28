@@ -16,6 +16,8 @@
     color: white;
 }
 h1{
+    margin-top : 5px;
+    margin-bottom: 5px;
     color: white;
     text-transform : uppercase;
 }
