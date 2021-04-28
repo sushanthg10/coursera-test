@@ -1,0 +1,38 @@
+
+#header_nav {
+    background-color: rgb(28, 29, 31);
+}
+body {
+    background-color: crimson;
+}
+h3 {
+    padding-top: 5px;
+}
+#main_content{
+ background-color: crimson;
+ overflow: auto;
+}
+#chicken{
+    background-color: cyan;
+    border: 5px solid crimson;
+}
+#beef{
+    background-color: cyan;
+    border: 5px solid crimson;
+}
+#sushi{
+    background-color: cyan;
+    border: 5px solid crimson;
+}
+a:hover, a:active {
+    text-decoration: none;
+}
+@media (min-width: 1200px){
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+
+}
