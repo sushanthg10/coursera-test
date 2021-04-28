@@ -2,27 +2,51 @@
 #header_nav {
     background-color: rgb(28, 29, 31);
 }
+#brand {
+    color : white;
+    font-size: 32px;
+}
+#drop1{
+    color: white;
+}
+#drop2{
+    color: white;
+}
+#drop3{
+    color: white;
+}
+h1{
+    color: white;
+    text-transform : uppercase;
+}
 body {
-    background-color: crimson;
+    background-color: #1A5276;
 }
 h3 {
     padding-top: 5px;
 }
 #main_content{
- background-color: crimson;
+ background-color: #1A5276;
  overflow: auto;
 }
 #chicken{
-    background-color: cyan;
-    border: 5px solid crimson;
+    background-color: #FAE5D9;
+    border: 5px solid #1A5276;
 }
 #beef{
-    background-color: cyan;
-    border: 5px solid crimson;
+    background-color: #FAE5D9;
+    border: 5px solid #1A5276;
 }
 #sushi{
-    background-color: cyan;
-    border: 5px solid crimson;
+    background-color: #FAE5D9;
+    border: 5px solid #1A5276;
+}
+#totop
+{
+     color : white;
+}
+#drop{
+    color : white;
 }
 a:hover, a:active {
     text-decoration: none;
