@@ -1,0 +1,26 @@
+
+#header_nav {
+    background-color: rgb(28, 29, 31);
+}
+body {
+    background-color: crimson;
+}
+h3 {
+    padding-top: 5px;
+}
+#main_content{
+ background-color: crimson;
+ overflow: auto;
+}
+#chicken{
+    background-color: cyan;
+}
+#beef{
+    background-color: cyan;
+}
+#sushi{
+    background-color: cyan;
+}
+a:hover, a:active {
+    text-decoration: none;
+}
